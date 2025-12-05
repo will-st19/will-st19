@@ -28,5 +28,11 @@ Here are some ideas to get you started:
 - Limpeza e validação de dados
 - Criação de scripts CLI e utilitários
 
-📌 Sempre adicionando novos projetos — um por vez, sem pressa e sem perfeccionismo.
+## 🔗 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-silveira-teixeira/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smooth.poa@gmail.com)
+
+---
+
+💡 *Montando uma coleção de projetos simples, úteis e diretos. Tudo feito com foco em prática real e progressão contínua.*
 
